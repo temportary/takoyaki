@@ -1,6 +1,8 @@
 # Takoyaki
 Grand new repository for the cutest of them all: Tako!
 
+[To Old Repository](https://github.com/css-html2024/takoyaki/)
+
 ## What does this repository includes?
 This repository mainly includes open-source code of Takoyaki.
 
